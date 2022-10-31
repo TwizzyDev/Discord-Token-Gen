@@ -5,3 +5,4 @@ It is capable of generating Unlocked Tokens for free by Using AI. DTG V3 is curr
 ```
 > You will have to use HQ Proxies/IPs to get unlocked tokens.
 
+![](https://github.com/TwizzyDev/Discord-Token-Gen/blob/main/20221031_141511.png)
