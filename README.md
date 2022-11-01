@@ -8,3 +8,6 @@ It is capable of generating Unlocked Tokens for free by Using AI. DTG V3 is curr
 > You will have to use HQ Proxies/IPs to get unlocked tokens.
 
 
+> 40 STARS = AI SOLVER SUPPORTED
+
+> 120 STARS = 240 UNCLAIMED TOKENS PER MIN
